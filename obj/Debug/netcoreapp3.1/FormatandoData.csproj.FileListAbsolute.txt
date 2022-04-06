@@ -1,0 +1,13 @@
+C:\Balta_C#\FormatandoData\obj\Debug\netcoreapp3.1\FormatandoData.csprojAssemblyReference.cache
+C:\Balta_C#\FormatandoData\obj\Debug\netcoreapp3.1\FormatandoData.AssemblyInfoInputs.cache
+C:\Balta_C#\FormatandoData\obj\Debug\netcoreapp3.1\FormatandoData.AssemblyInfo.cs
+C:\Balta_C#\FormatandoData\obj\Debug\netcoreapp3.1\FormatandoData.csproj.CoreCompileInputs.cache
+C:\Balta_C#\FormatandoData\bin\Debug\netcoreapp3.1\FormatandoData.exe
+C:\Balta_C#\FormatandoData\bin\Debug\netcoreapp3.1\FormatandoData.deps.json
+C:\Balta_C#\FormatandoData\bin\Debug\netcoreapp3.1\FormatandoData.runtimeconfig.json
+C:\Balta_C#\FormatandoData\bin\Debug\netcoreapp3.1\FormatandoData.runtimeconfig.dev.json
+C:\Balta_C#\FormatandoData\bin\Debug\netcoreapp3.1\FormatandoData.dll
+C:\Balta_C#\FormatandoData\bin\Debug\netcoreapp3.1\FormatandoData.pdb
+C:\Balta_C#\FormatandoData\obj\Debug\netcoreapp3.1\FormatandoData.dll
+C:\Balta_C#\FormatandoData\obj\Debug\netcoreapp3.1\FormatandoData.pdb
+C:\Balta_C#\FormatandoData\obj\Debug\netcoreapp3.1\FormatandoData.genruntimeconfig.cache
